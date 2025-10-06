@@ -1,0 +1,12 @@
+# minimal requirements for PA1
+numpy
+pandas
+polars
+pyarrow
+scikit-learn
+xgboost
+matplotlib
+seaborn
+tqdm
+joblib
+yfinance
